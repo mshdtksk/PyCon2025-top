@@ -167,7 +167,7 @@ with st.sidebar:
     st.markdown("### ℹ️ ポータル情報")
     st.info(f"登録アプリ数: {len(apps_data)}")
     st.info(f"カテゴリ数: {len(categories)}")
-    st.info(f"最終更新: {datetime.now().strftime('%Y-%m-%d')}")
+    st.info(f"最終更新: 2025-08-31")
 
 # メインコンテンツ
 # 統計情報
